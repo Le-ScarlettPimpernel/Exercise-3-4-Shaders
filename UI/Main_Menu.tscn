@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://UI/Main_Menu.gd" id="1"]
 [ext_resource type="Theme" uid="uid://dtshrykppl4yn" path="res://UI/UI.tres" id="2"]
 [ext_resource type="FontFile" uid="uid://bhottbq0lgtka" path="res://Assets/LeagueGothic-Regular.ttf" id="3"]
-[ext_resource type="PackedScene" uid="uid://ba8nudj4pooma" path="res://Ball/Ball.tscn" id="4"]
+[ext_resource type="PackedScene" uid="uid://ba8nudj4pooma" path="res://Ball/ball.tscn" id="4"]
 [ext_resource type="Shader" path="res://Effects/Main_Menu.gdshader" id="4_56tip"]
 [ext_resource type="Script" path="res://UI/Boundary.gd" id="5"]
 [ext_resource type="AudioStream" uid="uid://v0jjgadv50m1" path="res://Assets/wall.wav" id="6"]
